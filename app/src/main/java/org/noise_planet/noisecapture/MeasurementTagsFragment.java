@@ -27,7 +27,7 @@ import java.util.TreeSet;
 
 /**
  * Clase que permite crear la vista de TABS.
- * He modificado el código del resumen final para que los botones en lugar de ser ToggleButton, sean botones normales.
+ * Se ha modificado el código del resumen final para que los botones en lugar de ser ToggleButton, sean botones normales.
  * No nos interesa que sean checkeables porque al final puede ser que un mismo ruido aparezca en diferentes momentos.
  * Además, he creado una interfaz con 3 funciones
  * La primera (onButtonClicked) que llamaremos con cada click del botón y a la que pasaremos el nombre de la etiqueta para guardarlo en el fichero.
