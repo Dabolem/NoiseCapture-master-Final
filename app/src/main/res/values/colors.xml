@@ -1,0 +1,20 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+
+
+    <!-- Color for sound level representation !-->
+    <color name="R1_SL_level">#FF0000</color>
+    <color name="R2_SL_level">#FF8000</color>
+    <color name="R3_SL_level">#FFFF00</color>
+    <color name="R4_SL_level">#99FF00</color>
+    <color name="R5_SL_level">#00FF00</color>
+
+
+    <color name="tag_group_human">#eeae6e</color>
+    <color name="tag_group_traffic">#97b6b9</color>
+    <color name="tag_group_work">#aebcdf</color>
+    <color name="tag_group_natural">#afb960</color>
+
+    <color name="white">#FFFFFF</color>
+</resources>
